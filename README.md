@@ -20,34 +20,34 @@ I’m currently working at **LifeSignals**
 
 ## Languages:
 
-<img src=".html.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/css.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/node.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/pyhton.png" alt="Girl in a jacket" 
+<img src="html.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="css.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="node.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="pyhton.png" alt="Girl in a jacket" 
 width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/C++.png" alt="Girl in a jacket" 
+<img src="C++.png" alt="Girl in a jacket" 
 width="40" height="40"> &nbsp;&nbsp;
-<img src="./img/markdown.png" alt="Girl in a jacket" width="50" height="45"> &nbsp;&nbsp;
-<img src="./img/yaml1.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/NGINX.png" alt="Girl in a jacket" width="40" height="40">
+<img src="markdown.png" alt="Girl in a jacket" width="50" height="45"> &nbsp;&nbsp;
+<img src="yaml1.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="NGINX.png" alt="Girl in a jacket" width="40" height="40">
 
 
 
 ## Framework and Libraries:
 
-<img src="./img/angular.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/angular-material.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/bootstrap.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/jquery.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/rxjs.webp" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/swagger.webp" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/socket.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/vuepres.jpg" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="angular.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="angular-material.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="bootstrap.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="jquery.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="rxjs.webp" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="swagger.webp" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="socket.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="vuepres.jpg" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="./img/rabbitmq.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/MQTT.js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./img/cors.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="rabbitmq.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="MQTT.js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="cors.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
