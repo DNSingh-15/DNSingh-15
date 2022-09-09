@@ -50,6 +50,8 @@ width="40" height="40"> &nbsp;&nbsp;
 <img src="cors.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
+## Database:
+<img src="mongodb.png" alt="Girl in a jacket" width="40" height="40">
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNSingh-15&show_icons=true&locale=en&layout=compact" alt="DNSingh-15" /></p>
