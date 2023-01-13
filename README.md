@@ -8,7 +8,7 @@
 ### 💬 Ask me about **frontend(Angular) and Backend (Node.js)**
 
 ## work
-I’m currently working at **LifeSignals**
+I’m currently working in **LifeSignals**
 
 
 ## Connect with me:
