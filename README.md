@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DNSingh-15" alt="dnsingh123-tech" /></a> </p>
 
-### 💬 Ask me about **React.js, Node.js and Vue.js**
+### 💬 Ask me about => `React.js`, `Node.js`, `Vue.js`
 
 ## work
 I’m currently working in **LifeSignals**
