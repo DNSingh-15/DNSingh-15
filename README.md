@@ -20,20 +20,19 @@ I’m currently working in **LifeSignals**
 
 ## Languages:
 
-HTML, CSS, Javascript, Typescript
-python
-Markdown, yaml
-
-
+* `HTML`, `CSS`, `Javascript`, `Typescript`
+* `python`
+* `Markdown`, `yaml`
 
 ## Framework and Libraries:
 
-React.js, Next.js
-Vue.js, Nuxt.js, Vuetify 
-Websocket, Axios, JWT, MQTT, Swagger, Locust, Socket.io etc  
+* `React.js`, `Next.js`
+* `Vue.js`, `Nuxt.js`, `Vuetify` 
+* `Websocket`, `Axios`, `JWT`, `MQTT`, `Swagger`, `Locust`, `Socket.io` etc  
 
 ## Database:
-MongoDB, Firebase
+* `MongoDB`
+* `Firebase`
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNSingh-15&show_icons=true&locale=en&layout=compact" alt="DNSingh-15" /></p>
