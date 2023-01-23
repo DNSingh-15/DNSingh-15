@@ -24,7 +24,7 @@ I’m currently working in **LifeSignals**
 * `python`
 * `Markdown`, `yaml`
 
-## Framework and Libraries:
+## Environment, Framework and Libraries:
  
 * `Node.js`
 * `React.js`, `Next.js`
