@@ -20,38 +20,20 @@ I’m currently working in **LifeSignals**
 
 ## Languages:
 
-<img src="html.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="css.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="node.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="pyhton.png" alt="Girl in a jacket" 
-width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="C++.png" alt="Girl in a jacket" 
-width="40" height="40"> &nbsp;&nbsp;
-<img src="markdown.png" alt="Girl in a jacket" width="50" height="45"> &nbsp;&nbsp;
-<img src="yaml1.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="NGINX.png" alt="Girl in a jacket" width="40" height="40">
+HTML, CSS, Javascript, Typescript
+python
+Markdown, yaml
 
 
 
 ## Framework and Libraries:
 
-<img src="angular.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="angular-material.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="bootstrap.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="jquery.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="rxjs.webp" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="swagger.webp" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="socket.jpg" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="vuepres.jpg" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="rabbitmq.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="MQTT.js.png" alt="Girl in a jacket" width="50" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="cors.png" alt="Girl in a jacket" width="40" height="40"> &nbsp;&nbsp;&nbsp;&nbsp;
-
+React.js, Next.js
+Vue.js, Nuxt.js, Vuetify 
+Websocket, Axios, JWT, MQTT, Swagger, Locust, Socket.io etc  
 
 ## Database:
-<img src="mongodb.png" alt="Girl in a jacket" width="40" height="40">
+MongoDB, Firebase
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNSingh-15&show_icons=true&locale=en&layout=compact" alt="DNSingh-15" /></p>
