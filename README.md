@@ -25,7 +25,8 @@ I’m currently working in **LifeSignals**
 * `Markdown`, `yaml`
 
 ## Framework and Libraries:
-
+ 
+* `Node.js`
 * `React.js`, `Next.js`
 * `Vue.js`, `Nuxt.js`, `Vuetify` 
 * `Websocket`, `Axios`, `JWT`, `MQTT`, `Swagger`, `Locust`, `Socket.io` etc  
