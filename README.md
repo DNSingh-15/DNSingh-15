@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 -- I'm D N Singh</h1>
-<h2 align="center">A full stack developer</h2>
+<h4 align="center">A Full Stack Developer with a solid background in JavaScript technology stacks such as ReactJS, Vue.js and Node.js
+</h4>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnsingh123-tech&label=Profile%20views&color=0e75b6&style=flat" alt="DNSingh-15" /> </p>
 
