@@ -3,15 +3,17 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnsingh123-tech&label=Profile%20views&color=0e75b6&style=flat" alt="DNSingh-15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DNSingh-15" alt="dnsingh123-tech" /></a> </p>
-
-### 💬 Ask me about => `React.js`, `Node.js`, `Vue.js`
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DNSingh-15" alt="dnsingh123-tech" /></a> </p>
+ -->
+### 💬 Ask me about => `React.js`, `Vue.js`, `Node.js`
 
 ## work
 I’m currently working in **LifeSignals**
 
 
 ## Connect with me:
+
+<h3> <a href="https://portfolio-27261.web.app/">Portfolio</a> </h3> 
 
 <h3> <a href="https://www.linkedin.com/in/d-n-singh-49b85b1b2/">Linkedin</a> </h3>  
  
