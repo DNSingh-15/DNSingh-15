@@ -29,8 +29,8 @@ I’m currently working in **LifeSignals**
 
 ## Environment, Framework and Libraries:
  
-* `Node.js`
-* `React.js`, `Next.js`
+* `Node.js` and `Express.js`
+* `React.js`, `Next.js`, `Redux`, `Tailwind css` and `material UI`
 * `Vue.js`, `Nuxt.js`, `Vuetify` 
 * `Websocket`, `Axios`, `JWT`, `MQTT`, `Swagger`, `Locust`, `Socket.io` etc  
 
