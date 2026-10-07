@@ -1,42 +1,49 @@
-<h1 align="center">Hi 👋 -- I'm D N Singh</h1>
-<h4 align="center">A Full Stack Developer with a solid background in JavaScript technology stacks such as ReactJS, Vue.js and Node.js
-</h4>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnsingh123-tech&label=Profile%20views&color=0e75b6&style=flat" alt="DNSingh-15" /> </p>
+<h1 align="center">Hi 👋, I'm D N Singh</h1>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DNSingh-15" alt="dnsingh123-tech" /></a> </p>
- -->
-### 💬 Ask me about => `React.js`, `Vue.js`, `Node.js`
+<h3 align="center">
+Senior Application Developer @IBM | GenAI | LLM | Multi-Agent AI | MCP | Cloud | Full Stack
+</h3>
 
-## work
-I’m currently working in **Unistal Systems Pvt Ltd**
+<p align="center">
+🚀 Building scalable applications, intelligent AI systems & production-ready Agentic AI solutions
+</p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/dnsingh123/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="https://dnsingh.netlify.app/">Portfolio</a>
+&nbsp; • &nbsp;
+<a href="https://leetcode.com/u/dnsingh/">LeetCode</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/DNSingh-15">GitHub</a>
+</p>
 
-## Connect with me:
+---
 
-<h3> <a href="https://dnsingh.netlify.app/">Portfolio</a> </h3> 
+### 👨‍💻 About Me
 
-<h3> <a href="https://www.linkedin.com/in/d-n-singh-49b85b1b2/">Linkedin</a> </h3>  
- 
-**asmrdnsingh@gmail.com**
+- 💼 **Senior Application Developer @IBM**
+- 🚀 **5+ years** building scalable Full Stack & AI-powered systems
+- 🤖 **GenAI • LLM • Agentic AI • Multi-Agent Systems • RAG • MCP**
+- 🐍 **Python • FastAPI • JavaScript • TypeScript**
+- ⚛️ **React • Next.js • Node.js • NestJS**
+- ☁️ **AWS • Docker • CI/CD • Cloud Architecture**
+- 🏗️ **Microservices • Distributed Systems • System Design**
+- 🧠 Building toward **FAANG & top product-based companies**
 
+### 🤖 AI & Agentic Stack
 
-## Languages:
+`GenAI` `LLM` `Agentic AI` `Multi-Agent Systems`  
+`RAG` `MCP` `Prompt Engineering` `AI Agents`  
+`LLM Orchestration` `Context Management` `Pinecone`
 
-* `HTML`, `CSS`, `Javascript`, `Typescript`
-* `python`
-* `Markdown`, `yaml`
+### 🛠️ Full Stack & Cloud
 
-## Environment, Framework and Libraries:
- 
-* `Node.js` and `Express.js`
-* `React.js`, `Next.js`, `Redux`, `Tailwind css` and `material UI`
-* `Vue.js`, `Nuxt.js`, `Vuetify` 
-* `Websocket`, `Axios`, `JWT`, `MQTT`, `Swagger`, `Locust`, `Socket.io` etc  
+`Python` `FastAPI` `JavaScript` `TypeScript`  
+`React` `Next.js` `Node.js` `NestJS`  
+`AWS` `Docker` `CI/CD`  
+`PostgreSQL` `MySQL` `MongoDB` `MSSQL` `Redis`
 
-## Database:
-* `MongoDB`
-* `Firebase`
+### 📈 Currently Focused On
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DNSingh-15&show_icons=true&locale=en&layout=compact" alt="DNSingh-15" /></p>
+**DSA • System Design • Distributed Systems • Agentic AI • LLM Engineering • MCP**
